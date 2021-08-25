@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @djr319
+- 👀 I’m interested in aviation (I'm an airline pilot!), guitar (I play badly!), and coding (I'm starting a coding bootcamp with codeworks.me)
+- 🌱 I’m always learning
+- 💞️ I’m looking to get busy at the bleeding edge 
+- 📫 You can find my linkedIn at djryan.eu
