@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @djr319
-- 👀 I’m interested in aviation (I'm an airline pilot!), guitar (I play badly!), and coding (I'm starting a coding bootcamp with codeworks.me)
+- 👋 Hi, I’m David
+- 👀 I’m interested in aviation, guitar, cooking, and coding (I'm currently preparing myself for the codeworks.me September 2021 intake)
 - 🌱 I’m always learning
-- 💞️ I’m looking to get busy at the bleeding edge 
-- 📫 You can find my linkedIn at djryan.eu
+- 💞️ I’m looking to get busy at the bleeding edge in an industry that makes a difference
+- 📫 You can find my linkedIn profile at djryan.eu
