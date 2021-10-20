@@ -1,4 +1,4 @@
 - 👋 Hi, I’m David
-- 👀 I’m a commercial pilot and programmer
-- 🌱 I’m always learning
-- 📫 You can find my linkedIn profile at djryan.eu
+- 👀 I’m a commercial pilot, taking a break from aviation to learn some software development skills
+- 🌱 I’m currently on the 12 week Codeworks Software Engineering course. Learning Angular right now
+- 📫 You can find my linkedIn profile at www.djryan.eu
