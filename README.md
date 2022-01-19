@@ -1,4 +1,4 @@
-- 👋 Hi, I’m David :uk:
+- 👋 Hi, I’m David 🇬🇧 🇪🇺
 - 🥞 Fullstack software developer (Node, JS, React)
 - :airplane: Former airline pilot
 - 📫 LinkedIn profile at http://djryan.eu/about
