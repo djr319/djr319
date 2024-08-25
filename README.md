@@ -1,4 +1,4 @@
-- 👋 Hi, I’m David 🇬🇧 🇪🇺
-- :airplane: Airline pilot based in Berlin
+- Hi, I’m David 🇬🇧 🇪🇺 👋 
+- Airline pilot based in Berlin
 - [Codeworks](https://codeworks.me/) graduate  
-- 📫 LinkedIn profile at http://djryan.eu/about
+- LinkedIn profile at http://djryan.eu/about
