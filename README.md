@@ -1,4 +1,4 @@
 - 👋 Hi, I’m David 🇬🇧 🇪🇺
-- 🥞 Fullstack software developer (Node, JS, React)
-- :airplane: Airline pilot
+- :airplane: Airline pilot based in Berlin
+- [Codeworks](https://codeworks.me/) graduate  
 - 📫 LinkedIn profile at http://djryan.eu/about
